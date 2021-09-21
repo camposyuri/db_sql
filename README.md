@@ -1,2 +1,2 @@
 # db_sql
-<h1>PostgreSQ</h1>
+<h1>PostgreSQL</h1>
